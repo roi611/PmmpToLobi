@@ -33,5 +33,10 @@ ServerMessageShout: true
 #プレイヤーのチャット・参加・退出
 MessageShout: false
 ```
+
+このプラグインはLobiの利用規約では違反になる可能性があります。
+##使う場合は自己責任で
+お願いいたします
+
 このプラグインは「NewDelion」様が公開しているLobiAPIを使用したものです  
 URL: https://github.com/NewDelion/LobiAPI-PHP
