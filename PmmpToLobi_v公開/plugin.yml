@@ -1,0 +1,7 @@
+name: PmmpToLobi
+main: roi611\pmmptolobi\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+author: roi611
+description: Lobiとの双方向通信をします
