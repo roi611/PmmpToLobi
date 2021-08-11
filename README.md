@@ -38,5 +38,7 @@ MessageShout: false
 **使う場合は自己責任で**  
 お願いいたします
 
+Lobiに送信されるメッセージが多いとアカウントが SlowDown を食らうので気を付けましょう
+
 このプラグインは「NewDelion」様が公開しているLobiAPIを使用したものです  
 URL: https://github.com/NewDelion/LobiAPI-PHP
