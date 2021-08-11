@@ -42,3 +42,7 @@ Lobiに送信されるメッセージが多いとアカウントが SlowDown を
 
 このプラグインは「NewDelion」様が公開しているLobiAPIを使用したものです  
 URL: https://github.com/NewDelion/LobiAPI-PHP
+
+何かあれば  
+Discord: yuiful#5113  
+まで
